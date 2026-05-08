@@ -22,7 +22,7 @@ report_clock_networks [-file <arg>] [-append] [-name <arg>] [-return_string] [-e
  
 ### Категории
 
-теги: #Report, #Timing
+Report, Timing
  
 ## Описание
 
