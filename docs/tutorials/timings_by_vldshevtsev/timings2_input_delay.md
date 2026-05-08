@@ -401,7 +401,7 @@ $$
 \begin{equation}
 input\_delay\_min = T_{dco\_min} + T_{bd\_min}
 \tag{5}
-\label{5}
+\label{eq:5}
 \end{equation}
 
 Временные ограничения для входного сигнала создаются с помощью команды set_input_delay в виде:
