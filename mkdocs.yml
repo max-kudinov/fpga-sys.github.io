@@ -34,6 +34,8 @@ plugins:
       dirs:
         - tutorials
         - articles
+        - news
+        - ads
       size: 3   # сколько последних показывать
       paging: true
       locale: ru

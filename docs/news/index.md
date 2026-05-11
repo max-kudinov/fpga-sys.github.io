@@ -1,6 +1,6 @@
 ---
 title: Новости
-date: 2026-05-11
+date: 2026-05-01
 hide:
   - navigation
   - toc
