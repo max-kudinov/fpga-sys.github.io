@@ -157,3 +157,10 @@ exec xsc \<Абсолютный путь к файлу>\function1.c \<Абсол
 ## Литература
 
 - [UG900: Vivado Design Suite User Guide Logic Simulation](https://docs.amd.com/viewer/book-attachment/CWDJbHSniqgZL8x~oau_hw/dVcDi_bVfplKTAnSAWndsA-CWDJbHSniqgZL8x~oau_hw)
+
+<div id="telegram-comments"></div>
+
+<script async src="https://telegram.org/js/telegram-widget.js?22"
+        data-telegram-discussion="fpgasystems_events/3801"
+        data-comments-limit="20">
+</script>
