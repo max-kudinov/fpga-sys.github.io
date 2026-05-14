@@ -8,7 +8,7 @@ categories:
   - ethernet
 ---
 
-> автор: 0xBADC0FFE
+> **Автор**: 0xBADC0FFE
 
 # Скрипт Net2axis
 
@@ -123,6 +123,6 @@ P.S. Хочу обратиться к сообществу FPGA-Systems. На п
 <div id="telegram-comments"></div>
 
 <script async src="https://telegram.org/js/telegram-widget.js?22"
-        data-telegram-discussion="fpgasystems_events/3791"
+        data-telegram-discussion="fpgasystems_events/3804"
         data-comments-limit="20">
 </script>

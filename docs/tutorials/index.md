@@ -68,4 +68,12 @@ hide:
 
     [К первой части](microblaze_by_keisn13/part1_mcs.md)
 
+-   **Vivado HLS**
+
+    ---
+
+    Основы разработки IP при помощи HLS в Vivado
+
+    [К первой части](hls_by_PointPas/part1.md)
+
 </div>
