@@ -36,7 +36,7 @@ _Рисунок 2. Схема FPGA проекта._
 
 Описание проекта на System Verilog представлено ниже:
 
-```verilog
+```systemverilog
 module top (
     input  logic CLK,
     input  logic IDATA,

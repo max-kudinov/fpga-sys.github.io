@@ -208,7 +208,7 @@ Slack = T_{scd\_min} + T_{co\_min} + T_{dpd\_min} - T_{dcd\_max} - T_h
 
 Рассмотрим самый простой пример проекта, который состоит из двух триггеров между которыми расположен LUT, реализующий логическое отрицание. Схема проекта показана на рисунке 3. Описание на SystemVerilog представлено ниже:
 
-```verilog
+```systemverilog
 module top (
  input logic clk_pin,
  input logic in1,

@@ -62,7 +62,7 @@ int myFunction2()
     return 10;
 }
 ```
-```verilog
+```systemverilog
 //file.sv
 
 module m();
