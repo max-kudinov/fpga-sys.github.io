@@ -1,7 +1,7 @@
 ---
 title: Скрипт Net2axis
 date: 2021-10-13
-categories:
+tags:
   - article
   - Simulation
   - Vivado

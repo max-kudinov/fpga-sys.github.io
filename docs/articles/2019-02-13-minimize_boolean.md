@@ -1,7 +1,7 @@
 ---
 title: Минимизация булевых функций на многомерных кубиках
 date: 2019-02-13
-categories:
+tags:
   - article
   - Boolean
 ---

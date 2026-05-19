@@ -2,7 +2,7 @@
 title: UVM общие сведения и организация методологии
 date: 2021-07-13
 author: krendkrend
-categories:
+tags:
   - article
   - Simulation
   - UVM

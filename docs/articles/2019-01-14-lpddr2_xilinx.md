@@ -3,7 +3,7 @@ title: Заметка о проблеме с контроллером памят
 type: article
 date: 2019-01-14
 author: alexeyshashkov
-categories:
+tags:
   - article
   - DDR
   - Vivado

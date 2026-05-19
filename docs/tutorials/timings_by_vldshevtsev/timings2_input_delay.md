@@ -1,7 +1,7 @@
 ---
 title: Часть 2.1. System Synchronous Input Delay Constraint
 date: 2022-01-10
-categories:
+tags:
   - Timings
   - Vivado
 ---

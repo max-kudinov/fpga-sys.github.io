@@ -1,7 +1,7 @@
 ---
 title: ЦОС. О курсе
 date: 2024-03-29 
-categories:
+tags:
   - Zynq7000
   - Vivado
 ---

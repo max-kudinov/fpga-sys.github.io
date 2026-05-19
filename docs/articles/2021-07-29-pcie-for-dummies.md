@@ -1,7 +1,7 @@
 ---
 title: Быстрый старт. поднимаем PCIe (xdma)
 date: 2021-07-29
-categories:
+tags:
   - article
   - Vivado
   - PCI

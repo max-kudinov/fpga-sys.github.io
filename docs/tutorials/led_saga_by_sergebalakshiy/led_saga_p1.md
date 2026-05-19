@@ -1,7 +1,7 @@
 ---
 title: Сага о светодиодах часть 1
 date: 2025-03-29 
-categories:
+tags:
   - LED
   - Lichee
 ---

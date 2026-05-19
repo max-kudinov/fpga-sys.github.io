@@ -1,7 +1,7 @@
 ---
 title: Часть 2.2. System Synchronous Output Delay Constraint
 date: 2022-01-18
-categories:
+tags:
   - Timings
   - Vivado
 ---

@@ -1,7 +1,7 @@
 ---
 title: NaN boxing
 date: 2021-08-02
-categories:
+tags:
   - article
   - math
 ---

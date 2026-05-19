@@ -2,7 +2,7 @@
 title: Vivado reprorts => report_clocks
 description: "Расширенный комментарий по `report_clocks`"
 date: 2017-10-20
-categories:
+tags:
   - reports
   - Vivado
 ---

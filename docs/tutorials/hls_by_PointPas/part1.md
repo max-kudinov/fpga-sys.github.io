@@ -1,7 +1,7 @@
 ---
 title: Разработка IP-блока с помощью инструментов высокоуровнего синтеза, HLS. Часть 1
 date: 2019-08-29
-categories:
+tags:
   - Vivado
   - HLS
   - Xilinx

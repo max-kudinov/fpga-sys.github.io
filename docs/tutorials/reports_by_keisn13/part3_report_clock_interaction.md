@@ -2,7 +2,7 @@
 title: Vivado reprorts => report_clock_networksVivado reprorts => report_clock_interaction
 description: "Расширенный комментарий по `report_clock_interaction`"
 date: 2017-10-21
-categories:
+tags:
   - reports
   - Vivado
 ---

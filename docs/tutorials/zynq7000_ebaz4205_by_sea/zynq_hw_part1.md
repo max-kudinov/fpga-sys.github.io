@@ -1,7 +1,7 @@
 ---
 title: Zynq EBAZ4205 часть 1
 date: 2026-03-29 
-categories:
+tags:
   - Zynq7000
   - Vivado
 ---

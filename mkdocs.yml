@@ -19,10 +19,11 @@ theme:
     primary: red
     scheme: default
 plugins:
+  - tags
   - search
   - awesome-pages
   - blogging:
-      categories:
+      tags:
         - name: Tutorials
           dirs:
             - tutorials

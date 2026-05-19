@@ -3,7 +3,7 @@ title: Corsair - удобнейший генератор карты регист
 type: article
 date: 2022-01-14
 author: Rsv
-categories:
+tags:
   - article
   - DDR
   - Vivado

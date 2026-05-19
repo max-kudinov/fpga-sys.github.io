@@ -1,7 +1,7 @@
 ---
 title: Часть 1. Разработка процессорной системы на базе софт-процессора MicroBlaze в среде Xilinx Vivado IDE/HLx
 date: 2021-07-29 
-categories:
+tags:
   - Microblaze
   - Vivado
 ---

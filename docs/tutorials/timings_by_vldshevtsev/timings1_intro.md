@@ -1,7 +1,7 @@
 ---
 title: Часть 1. Period Constraint
 date: 2021-07-29 
-categories:
+tags:
   - Timings
   - Vivado
 ---

@@ -1,7 +1,7 @@
 ---
 title: Часть 3. Source Synchronous Input Delay Constraint
 date: 2022-03-27
-categories:
+tags:
   - Timings
   - Vivado
 ---

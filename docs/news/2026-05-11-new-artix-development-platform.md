@@ -1,7 +1,7 @@
 ---
 title: Artix UltraScale+ AU7P FPGA development platform by Adiuvo
 date: 2026-05-11
-categories:
+tags:
   - article
   - PCB
   - Xilinx

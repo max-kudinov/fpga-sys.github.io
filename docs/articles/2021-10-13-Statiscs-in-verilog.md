@@ -1,7 +1,7 @@
 ---
 title: Статическое в SystemVerilog
 date: 2021-10-13
-categories:
+tags:
   - article
   - Timings
   - Vivado
