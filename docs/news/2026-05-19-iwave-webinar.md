@@ -1,6 +1,6 @@
 ---
 title: oHFM™ FPGA SoM Standard. Enabling Connectivity at 64 Gbps/112 Gbps PAM4 Data Rates
-date: 2026-05-11
+date: 2026-05-19
 tags:
   - news
   - PCB
