@@ -3,5 +3,6 @@ nav:
   - timings2_input_delay.md
   - timings2_output_delay.md
   - timings3_source_input_delay.md
+  - timings4_source_output_delay.md
   
 title: "vldshevtsev: Статический анализ временных ограничений"   # красивый заголовок
