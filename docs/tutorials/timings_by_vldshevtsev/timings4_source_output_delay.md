@@ -1,5 +1,5 @@
 ---
-title: Основы статического временного анализа. Часть 4  Source Synchronous Output Delay Constraint.
+title: Часть 4. Source Synchronous Output Delay Constraint.
 date: 2022-07-27
 author: vldshevtsev
 tags:
