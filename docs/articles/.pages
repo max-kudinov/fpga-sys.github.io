@@ -2,6 +2,7 @@ nav:
   - index.md
   - 2022-01-14-corsair-csr-generator.md
   - 2021-10-13-Statiscs-in-verilog.md
+  - 2021-10-11-netlist-optimizing.md
   - 2021-08-20-log-func.md
   - 2021-08-02-nan-boxing.md
   - 2021-07-29-pcie-for-dummies.md
